@@ -1,4 +1,4 @@
 CMIS IP assignments
-*this
-*that
-*the other thing
+* this
+* that
+* the other thing
